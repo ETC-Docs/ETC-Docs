@@ -13,10 +13,10 @@ The index can be accessed from the outline section in google docs. If required i
         2. [XX Pass](https://docs.google.com/document/u/0/d/1eA4tLYEZ9m1aG748qYQ12pFYZcIgS6PCmXbWSuhuytc/edit)
         3. [Ad Group Inventory](https://docs.google.com/document/u/0/d/1NsVGAf4WS0bcOthk1dJl_GC3AQi8tgCS-v0QqgKlgrI/edit)
     2. Ads Platform
-        4. Google Ads
+        1. [Google Ads]
             1. Online Google Ads Editor
             2. Offline Google Ads Editor
-        5. Microsoft Ads
+        2. [Microsoft Ads]
             3. Offline Microsoft Ads Editor
             4. Online Microsoft Ads Editor
     3. Intermediate Level
