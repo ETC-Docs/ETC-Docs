@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to ETC User Guide Hub!"
 date:   2023-03-14 12:14:35 -0400
 categories: jekyll update
 ---
