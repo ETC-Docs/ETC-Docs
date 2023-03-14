@@ -17,8 +17,8 @@ The index can be accessed from the outline section in google docs. If required i
             1. Online Google Ads Editor
             2. Offline Google Ads Editor
         2. [Microsoft Ads]
-            3. Offline Microsoft Ads Editor
-            4. Online Microsoft Ads Editor
+            1. Offline Microsoft Ads Editor
+            2. Online Microsoft Ads Editor
     3. Intermediate Level
         6. [Event Data Tool](https://docs.google.com/document/u/0/d/1JOCiQvNO5WawCXlQYNzFWhnNdBCRmBm_1FTFSH979YM/edit)
             5. Create WorkFlow
