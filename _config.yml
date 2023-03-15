@@ -18,15 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Event Tickets Center
+email: CustomerSupport@EventTicketsCenter.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-domain: etc-docs.github.io
-baseurl: /ETC-Docs/ # the subpath of your site, e.g. /blog
-url: https://etc-docs.github.io # the base hostname & protocol for your site, e.g. http://example.com
+  At Event Tickets Center, we believe that buying tickets should be simple, so we streamlined the online buying process by creating a 
+      user-friendly platform to browse millions of tickets to thousands of national and local events. Find concert tickets, sports tickets,
+      theater tickets and more by a variety of categories like genre, team or location, and make sure you score the best seats in the house 
+      with our interactive seating charts.
+domain: Inspiraguides.com
+baseurl: # the subpath of your site, e.g. /blog
+url: https://Inspiraguides.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
