@@ -1,17 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/ETC-Docs/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ETC-Docs/" rel="alternate" type="text/html" /><updated>2023-03-21T11:32:39-04:00</updated><id>http://localhost:4000/ETC-Docs/feed.xml</id><title type="html">InspiraGuides</title><subtitle>The ticket reselling company.</subtitle><entry><title type="html">Document Hub!</title><link href="http://localhost:4000/ETC-Docs/jekyll/update/2023/03/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Document Hub!" /><published>2023-03-14T12:14:35-04:00</published><updated>2023-03-14T12:14:35-04:00</updated><id>http://localhost:4000/ETC-Docs/jekyll/update/2023/03/14/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/ETC-Docs/jekyll/update/2023/03/14/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/ETC-Docs/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ETC-Docs/" rel="alternate" type="text/html" /><updated>2023-03-21T15:14:38-04:00</updated><id>http://localhost:4000/ETC-Docs/feed.xml</id><title type="html">ETC Guides</title><subtitle>The ticket reselling company.</subtitle><entry><title type="html">Production User Guide</title><link href="http://localhost:4000/ETC-Docs/etc_docs/2023/03/14/production.html" rel="alternate" type="text/html" title="Production User Guide" /><published>2023-03-14T12:14:35-04:00</published><updated>2023-03-14T12:14:35-04:00</updated><id>http://localhost:4000/ETC-Docs/etc_docs/2023/03/14/production</id><content type="html" xml:base="http://localhost:4000/ETC-Docs/etc_docs/2023/03/14/production.html">&lt;p style=&quot;text-align: justify;&quot;&gt;This guide provides you with an overview of the contents of our guide for navigating the production process. The guide is divided into three levels - Entry, Intermediate, and Advanced. Each with specific tasks that need to be performed.&lt;/p&gt;
 
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+&lt;h2 id=&quot;entry-level&quot;&gt;Entry Level&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/u/0/d/1sMYaKqrV2OIC4HXf7qUICb3fNY7bLRsU6IneSEFdhxU/edit&quot;&gt;Concluded Stops&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/u/0/d/1eA4tLYEZ9m1aG748qYQ12pFYZcIgS6PCmXbWSuhuytc/edit&quot;&gt;XX Pass&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/u/0/d/1NsVGAf4WS0bcOthk1dJl_GC3AQi8tgCS-v0QqgKlgrI/edit&quot;&gt;Ad Group Inventory&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&quot;intermediate-level&quot;&gt;Intermediate Level&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/u/0/d/1JOCiQvNO5WawCXlQYNzFWhnNdBCRmBm_1FTFSH979YM/edit&quot;&gt;Event Data Tool&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Compiling XX Pass&lt;/li&gt;
+  &lt;li&gt;Review Missed Ads&lt;/li&gt;
+  &lt;li&gt;Clear Failed Forms&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;h2 id=&quot;advanced-level&quot;&gt;Advanced Level&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1WYlrkcSFOCAzsSQc36I_qJx9wlbpiwX4GH2tA0Z7L5Q/edit?usp=sharing&quot;&gt;Date Change&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Display&lt;/li&gt;
+  &lt;li&gt;Create Special Events&lt;/li&gt;
+  &lt;li&gt;Additional Artists&lt;/li&gt;
+  &lt;li&gt;Inventory Pass&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="ETC_Docs" /><summary type="html">This guide provides you with an overview of the contents of our guide for navigating the production process. The guide is divided into three levels - Entry, Intermediate, and Advanced. Each with specific tasks that need to be performed.</summary></entry><entry><title type="html">Special Projects User Guide</title><link href="http://localhost:4000/ETC-Docs/etc_docs/2023/03/10/SpecialProjects.html" rel="alternate" type="text/html" title="Special Projects User Guide" /><published>2023-03-10T11:14:35-05:00</published><updated>2023-03-10T11:14:35-05:00</updated><id>http://localhost:4000/ETC-Docs/etc_docs/2023/03/10/SpecialProjects</id><content type="html" xml:base="http://localhost:4000/ETC-Docs/etc_docs/2023/03/10/SpecialProjects.html">&lt;p style=&quot;text-align: justify;&quot;&gt;This guide provides you with an overview of the contents of our guide for navigating the production process. The guide is divided into three levels - Entry, Intermediate, and Advanced. Each with specific tasks that need to be performed.&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;h3 id=&quot;1-entry-level&quot;&gt;1. Entry Level&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Concluded Stops&lt;/li&gt;
+  &lt;li&gt;XX Pass&lt;/li&gt;
+  &lt;li&gt;Ad Group Inventory&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&apos;Tom&apos;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &apos;Hi, Tom&apos; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;2-intermediate-level&quot;&gt;2. Intermediate Level&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Event Data Tool&lt;/li&gt;
+  &lt;li&gt;Compiling XX Pass&lt;/li&gt;
+  &lt;li&gt;Review Missed Ads&lt;/li&gt;
+  &lt;li&gt;Clear Failed Forms&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;h3 id=&quot;3-advanced-level&quot;&gt;3. Advanced Level&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Date Change&lt;/li&gt;
+  &lt;li&gt;Display&lt;/li&gt;
+  &lt;li&gt;Create Special Events&lt;/li&gt;
+  &lt;li&gt;Additional Artists&lt;/li&gt;
+  &lt;li&gt;Inventory Pass&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="ETC_Docs" /><summary type="html">This guide provides you with an overview of the contents of our guide for navigating the production process. The guide is divided into three levels - Entry, Intermediate, and Advanced. Each with specific tasks that need to be performed.</summary></entry><entry><title type="html">In progress</title><link href="http://localhost:4000/ETC-Docs/etc_docs/2023/03/05/newUser.html" rel="alternate" type="text/html" title="In progress" /><published>2023-03-05T11:14:35-05:00</published><updated>2023-03-05T11:14:35-05:00</updated><id>http://localhost:4000/ETC-Docs/etc_docs/2023/03/05/newUser</id><content type="html" xml:base="http://localhost:4000/ETC-Docs/etc_docs/2023/03/05/newUser.html"></content><author><name></name></author><category term="ETC_Docs" /><summary type="html"></summary></entry></feed>
