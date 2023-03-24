@@ -17,7 +17,7 @@ categories: ETC_Docs
 
 ## Intermediate Level
 *    [Event Data Tool](https://docs.google.com/document/u/0/d/1JOCiQvNO5WawCXlQYNzFWhnNdBCRmBm_1FTFSH979YM/edit)
-*    Compiling XX Pass
+*    [Compiling XX Pass](https://docs.google.com/document/d/1zflXzmCZYzTHS46oN829MLveL90rvVVB-Yjr3lsLuOY/edit?usp=sharing)
 *    Review Missed Ads
 *    Clear Failed Forms
 
