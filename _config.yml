@@ -23,7 +23,7 @@ email: CustomerSupport@EventTicketsCenter.com
 description: >- # this means to ignore newlines until "baseurl:"
   The ticket reselling company.
 domain: etc-docs.github.io
-baseurl: /ETC-Docs/ # the subpath of your site, e.g. /blog
+baseurl: /ETC-Docs # the subpath of your site, e.g. /blog
 url: https://etc-docs.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: new
 github_username:  jekyll
