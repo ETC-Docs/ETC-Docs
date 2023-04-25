@@ -5,7 +5,7 @@ date:   2023-03-14 12:14:35 -0400
 categories: ETC_Docs
 ---
 
-<p style="text-align: justify;">This guide provides you with an overview of the contents of our guide for navigating the production process. The guide is divided into three levels - Entry, Intermediate, and Advanced. Each with specific tasks that need to be performed.</p>
+<p style="text-align: justify;">This guide provides you with an overview of the contents for navigating through the production process. The guide is divided into three levels - Entry, Intermediate, and Advanced. Each with specific tasks that need to be performed.</p>
 
 
 ## Entry Level

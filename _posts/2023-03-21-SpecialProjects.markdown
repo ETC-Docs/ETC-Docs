@@ -7,23 +7,7 @@ categories: ETC_Docs
 
 
 
-<p style="text-align: justify;">This guide provides you with an overview of the contents of our guide for navigating the production process. The guide is divided into three levels - Entry, Intermediate, and Advanced. Each with specific tasks that need to be performed.</p>
+<p style="text-align: justify;">Certain events in the production are handled separately to ensure they are not missed in the vast number of events created daily. The special projects aim to advertise significant events on the website so these events are readily accessible to the customer.</p>
 
-### 1. Entry Level
-*      Concluded Stops
-*      XX Pass
-*      Ad Group Inventory
-
-### 2. Intermediate Level
-*      Event Data Tool
-*      Compiling XX Pass
-*      Review Missed Ads
-*      Clear Failed Forms
-
-
-### 3. Advanced Level
-*      Date Change
-*      Display
-*      Create Special Events
-*      Additional Artists
-*      Inventory Pass
+1. [Homepage](https://docs.google.com/document/d/e/2PACX-1vTZ_LpvYXwHwnja-aYgVp_zwY8oScDlDGnbibaWaS6lutM3oIbrePsHIlOSDlwaynNl7qLdkOS4rM05/pub)
+2. [Concerts/Comedy](https://docs.google.com/document/d/e/2PACX-1vTXt5ecN4UdHDBevhQPBO4LZ99_91tSKZsQ7adJZnRDqsq537gK3t0Xhf9ohUEeVCcKdl3E2eS8HP9T/pub)
