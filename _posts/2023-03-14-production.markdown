@@ -19,7 +19,7 @@ categories: ETC_Docs
 *    [Event Data Tool](https://docs.google.com/document/u/0/d/1JOCiQvNO5WawCXlQYNzFWhnNdBCRmBm_1FTFSH979YM/edit](https://docs.google.com/document/d/e/2PACX-1vT_QgQxb3LE_vF7gh83uVAE-xeLuYcphPYecIclIwRnBlyvS4VFl8W10-iGMfWANTc7NtI5r3mDigbu/pub)
 *    [Compiling XX Pass](https://docs.google.com/document/d/1dC-HlayoBQ8yD3qZAtUVMsjcggAosUXQM8h_tNTeQ5g/edit?usp=sharing](https://docs.google.com/document/d/e/2PACX-1vRy6YdBKVHlTdBViBMusTKDelUZrhmy69Djn_SoqDU_-GxkzcpWppdbRnew6U-rytKT3NG5u2YgRWcD/pub)
 *    [- - Pass](https://docs.google.com/document/d/e/2PACX-1vSZ-Eu548EVddxlP-pSxlcCSiyrBaM_4T9qTdaL-_jMpNr9F0LrGGY2Mj2NHPURibCzlPZyHMFvNwg9/pub)
-*    Review Missed Ads
+*    Review Missed Ads 
 *    Clear Failed Forms
 
 
