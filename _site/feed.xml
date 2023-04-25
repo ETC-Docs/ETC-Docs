@@ -1,49 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/ETC-Docs/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ETC-Docs/" rel="alternate" type="text/html" /><updated>2023-03-24T15:48:07-04:00</updated><id>http://localhost:4000/ETC-Docs/feed.xml</id><title type="html">ETC Guides</title><subtitle>The ticket reselling company.</subtitle><entry><title type="html">Production User Guide</title><link href="http://localhost:4000/ETC-Docs/etc_docs/2023/03/14/production.html" rel="alternate" type="text/html" title="Production User Guide" /><published>2023-03-14T12:14:35-04:00</published><updated>2023-03-14T12:14:35-04:00</updated><id>http://localhost:4000/ETC-Docs/etc_docs/2023/03/14/production</id><content type="html" xml:base="http://localhost:4000/ETC-Docs/etc_docs/2023/03/14/production.html">&lt;p style=&quot;text-align: justify;&quot;&gt;This guide provides you with an overview of the contents of our guide for navigating the production process. The guide is divided into three levels - Entry, Intermediate, and Advanced. Each with specific tasks that need to be performed.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/ETC-Docs/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/ETC-Docs/" rel="alternate" type="text/html" /><updated>2023-04-25T11:01:32-04:00</updated><id>http://localhost:4000/ETC-Docs/feed.xml</id><title type="html">ETC Guides</title><subtitle>The ticket reselling company.</subtitle><entry><title type="html">Production User Guide</title><link href="http://localhost:4000/ETC-Docs/etc_docs/2023/03/14/production.html" rel="alternate" type="text/html" title="Production User Guide" /><published>2023-03-14T12:14:35-04:00</published><updated>2023-03-14T12:14:35-04:00</updated><id>http://localhost:4000/ETC-Docs/etc_docs/2023/03/14/production</id><content type="html" xml:base="http://localhost:4000/ETC-Docs/etc_docs/2023/03/14/production.html">&lt;p style=&quot;text-align: justify;&quot;&gt;This guide provides you with an overview of the contents for navigating through the production process. The guide is divided into three levels - Entry, Intermediate, and Advanced. Each with specific tasks that need to be performed.&lt;/p&gt;
 
 &lt;h2 id=&quot;entry-level&quot;&gt;Entry Level&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/u/0/d/1sMYaKqrV2OIC4HXf7qUICb3fNY7bLRsU6IneSEFdhxU/edit&quot;&gt;Concluded Stops&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/u/0/d/1eA4tLYEZ9m1aG748qYQ12pFYZcIgS6PCmXbWSuhuytc/edit&quot;&gt;XX Pass&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/u/0/d/1NsVGAf4WS0bcOthk1dJl_GC3AQi8tgCS-v0QqgKlgrI/edit&quot;&gt;Ad Group Inventory&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;[https://docs.google.com/document/u/0/d/1sMYaKqrV2OIC4HXf7qUICb3fNY7bLRsU6IneSEFdhxU/edit](https://docs.google.com/document/d/e/2PACX-1vTTuP479QV6m8T4ofkrzvYik_hG5rF-ZJvJxhNriWk41bZVuy6mVzzMd1F5VYfOyCVNWljtoqGGRHQ_/pub)&quot;&gt;Concluded Stops&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/e/2PACX-1vSHd4rwQF1h1cWQrnzFAlB2u-SNl3uo5eFpYfEt4tBdueSPwTsafZ5uPQ3C4M8oPAR3i6NB7MR6Hw7z/pub&quot;&gt;XX Pass&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/e/2PACX-1vRMHbwSf410w4r-ohL9ZSqGW7tEyOrWAQNO0gcBgXYGOR0WiFydYFpWWFzK8Y_gUIXlr5W6tf_XUm05/pub&quot;&gt;Ad Group Inventory&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;intermediate-level&quot;&gt;Intermediate Level&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/u/0/d/1JOCiQvNO5WawCXlQYNzFWhnNdBCRmBm_1FTFSH979YM/edit&quot;&gt;Event Data Tool&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1dC-HlayoBQ8yD3qZAtUVMsjcggAosUXQM8h_tNTeQ5g/edit?usp=sharing&quot;&gt;Compiling XX Pass&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/e/2PACX-1vT_QgQxb3LE_vF7gh83uVAE-xeLuYcphPYecIclIwRnBlyvS4VFl8W10-iGMfWANTc7NtI5r3mDigbu/pub&quot;&gt;Event Data Tool&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/e/2PACX-1vRy6YdBKVHlTdBViBMusTKDelUZrhmy69Djn_SoqDU_-GxkzcpWppdbRnew6U-rytKT3NG5u2YgRWcD/pub&quot;&gt;Compiling XX Pass&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/e/2PACX-1vSZ-Eu548EVddxlP-pSxlcCSiyrBaM_4T9qTdaL-_jMpNr9F0LrGGY2Mj2NHPURibCzlPZyHMFvNwg9/pub&quot;&gt;- - Pass&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Review Missed Ads&lt;/li&gt;
   &lt;li&gt;Clear Failed Forms&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;advanced-level&quot;&gt;Advanced Level&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/1WYlrkcSFOCAzsSQc36I_qJx9wlbpiwX4GH2tA0Z7L5Q/edit?usp=sharing&quot;&gt;Date Change&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Display&lt;/li&gt;
-  &lt;li&gt;Create Special Events&lt;/li&gt;
-  &lt;li&gt;Additional Artists&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;[https://docs.google.com/document/d/1WYlrkcSFOCAzsSQc36I_qJx9wlbpiwX4GH2tA0Z7L5Q/edit?usp=sharin](https://docs.google.com/document/d/e/2PACX-1vR9QRaWpo2_lvbFiacXckw-LubdcFeT16s7HP4TTSP_WCJiuHEeiuM6pF0NkEY06IjQQWC0gGbV3cgu/pub)g&quot;&gt;Date Change&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/e/2PACX-1vSGId6-E6IbeMmYcF3GKlwcir9pTFLy2D4PrKCI--rUCprn2qqQc3SUZX_kr4kCKCZG8okm3cBwaEEY/pub&quot;&gt;Display&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/e/2PACX-1vSXvnoq6L_lkRsg3RMgTSjyKhxBTZRciovSjT0IMxysc5cbYKzuGYv87LgZj51BDa9OKAkUTNAX48sc/pub&quot;&gt;Create Special Events&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/e/2PACX-1vRsXg6sMQNxgVyoCh4kvbq73QnuUjOQMqvaSGcK1M71eqRX3ATIolaiXXfRwiTmQlCbe7j-NJXK2Jll/pub&quot;&gt;Additional Artists&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Inventory Pass&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="ETC_Docs" /><summary type="html">This guide provides you with an overview of the contents of our guide for navigating the production process. The guide is divided into three levels - Entry, Intermediate, and Advanced. Each with specific tasks that need to be performed.</summary></entry><entry><title type="html">Special Projects User Guide</title><link href="http://localhost:4000/ETC-Docs/etc_docs/2023/03/10/SpecialProjects.html" rel="alternate" type="text/html" title="Special Projects User Guide" /><published>2023-03-10T11:14:35-05:00</published><updated>2023-03-10T11:14:35-05:00</updated><id>http://localhost:4000/ETC-Docs/etc_docs/2023/03/10/SpecialProjects</id><content type="html" xml:base="http://localhost:4000/ETC-Docs/etc_docs/2023/03/10/SpecialProjects.html">&lt;p style=&quot;text-align: justify;&quot;&gt;This guide provides you with an overview of the contents of our guide for navigating the production process. The guide is divided into three levels - Entry, Intermediate, and Advanced. Each with specific tasks that need to be performed.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="ETC_Docs" /><summary type="html">This guide provides you with an overview of the contents for navigating through the production process. The guide is divided into three levels - Entry, Intermediate, and Advanced. Each with specific tasks that need to be performed.</summary></entry><entry><title type="html">Special Projects User Guide</title><link href="http://localhost:4000/ETC-Docs/etc_docs/2023/03/10/SpecialProjects.html" rel="alternate" type="text/html" title="Special Projects User Guide" /><published>2023-03-10T11:14:35-05:00</published><updated>2023-03-10T11:14:35-05:00</updated><id>http://localhost:4000/ETC-Docs/etc_docs/2023/03/10/SpecialProjects</id><content type="html" xml:base="http://localhost:4000/ETC-Docs/etc_docs/2023/03/10/SpecialProjects.html">&lt;p style=&quot;text-align: justify;&quot;&gt;Certain events in the production are handled separately to ensure they are not missed in the vast number of events created daily. The special projects aim to advertise significant events on the website so these events are readily accessible to the customer.&lt;/p&gt;
 
-&lt;h3 id=&quot;1-entry-level&quot;&gt;1. Entry Level&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Concluded Stops&lt;/li&gt;
-  &lt;li&gt;XX Pass&lt;/li&gt;
-  &lt;li&gt;Ad Group Inventory&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;2-intermediate-level&quot;&gt;2. Intermediate Level&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Event Data Tool&lt;/li&gt;
-  &lt;li&gt;Compiling XX Pass&lt;/li&gt;
-  &lt;li&gt;Review Missed Ads&lt;/li&gt;
-  &lt;li&gt;Clear Failed Forms&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;3-advanced-level&quot;&gt;3. Advanced Level&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Date Change&lt;/li&gt;
-  &lt;li&gt;Display&lt;/li&gt;
-  &lt;li&gt;Create Special Events&lt;/li&gt;
-  &lt;li&gt;Additional Artists&lt;/li&gt;
-  &lt;li&gt;Inventory Pass&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="ETC_Docs" /><summary type="html">This guide provides you with an overview of the contents of our guide for navigating the production process. The guide is divided into three levels - Entry, Intermediate, and Advanced. Each with specific tasks that need to be performed.</summary></entry><entry><title type="html">In progress</title><link href="http://localhost:4000/ETC-Docs/etc_docs/2023/03/05/newUser.html" rel="alternate" type="text/html" title="In progress" /><published>2023-03-05T11:14:35-05:00</published><updated>2023-03-05T11:14:35-05:00</updated><id>http://localhost:4000/ETC-Docs/etc_docs/2023/03/05/newUser</id><content type="html" xml:base="http://localhost:4000/ETC-Docs/etc_docs/2023/03/05/newUser.html"></content><author><name></name></author><category term="ETC_Docs" /><summary type="html"></summary></entry></feed>
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/e/2PACX-1vTZ_LpvYXwHwnja-aYgVp_zwY8oScDlDGnbibaWaS6lutM3oIbrePsHIlOSDlwaynNl7qLdkOS4rM05/pub&quot;&gt;Homepage&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/document/d/e/2PACX-1vTXt5ecN4UdHDBevhQPBO4LZ99_91tSKZsQ7adJZnRDqsq537gK3t0Xhf9ohUEeVCcKdl3E2eS8HP9T/pub&quot;&gt;Concerts/Comedy&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="ETC_Docs" /><summary type="html">Certain events in the production are handled separately to ensure they are not missed in the vast number of events created daily. The special projects aim to advertise significant events on the website so these events are readily accessible to the customer.</summary></entry><entry><title type="html">In progress</title><link href="http://localhost:4000/ETC-Docs/etc_docs/2023/03/05/newUser.html" rel="alternate" type="text/html" title="In progress" /><published>2023-03-05T11:14:35-05:00</published><updated>2023-03-05T11:14:35-05:00</updated><id>http://localhost:4000/ETC-Docs/etc_docs/2023/03/05/newUser</id><content type="html" xml:base="http://localhost:4000/ETC-Docs/etc_docs/2023/03/05/newUser.html"></content><author><name></name></author><category term="ETC_Docs" /><summary type="html"></summary></entry></feed>
