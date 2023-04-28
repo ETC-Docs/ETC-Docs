@@ -26,7 +26,7 @@ domain: etc-docs.github.io
 baseurl: /ETC-Docs # the subpath of your site, e.g. /blog
 url: https://etc-docs.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: eventticketsctr
-github_username: Event Tickets Center
+# github_username: 
 facebook_username: EventTicketsCenter
 
 # Build settings
