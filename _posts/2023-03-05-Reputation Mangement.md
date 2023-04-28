@@ -7,7 +7,7 @@ categories: ETC_Docs
 
 
 
-<p style="text-align: justify;">Everything you need to get started at ETC.</p>
+<p style="text-align: justify;">The team is trained to handle various situations, including ticket cancellations, refunds, and other issues related to the purchasing process.</p>
 
 1. [Review Response Management](https://docs.google.com/document/d/e/2PACX-1vQGAOtKdYQCazSCFzkjb_VGh_b4Z8aw7pQGLrK5hoYaNaYC6-hPDWmClG1y4XIAJ6XhJZlfHJ0-Bqgn/pub)
 2. [Positive Review Responses](https://docs.google.com/document/d/e/2PACX-1vRH458SPeic5F42-zIf3GmcFRwSOegPMuAje52JqSZsmUWvVpC1dlTrrj12eWx5CmqzenJYFPohtbwN/pub)
