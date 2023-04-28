@@ -31,7 +31,7 @@ facebook_username: EventTicketsCenter
 
 # Build settings
 # theme: minima
-remote_theme: broccolini/swiss
+# remote_theme: broccolini/swiss
 plugins:
   - jekyll-feed
 
