@@ -11,3 +11,4 @@ categories: ETC_Docs
 
 1. [Homepage](https://docs.google.com/document/d/e/2PACX-1vTZ_LpvYXwHwnja-aYgVp_zwY8oScDlDGnbibaWaS6lutM3oIbrePsHIlOSDlwaynNl7qLdkOS4rM05/pub)
 2. [Concerts/Comedy](https://docs.google.com/document/d/e/2PACX-1vTXt5ecN4UdHDBevhQPBO4LZ99_91tSKZsQ7adJZnRDqsq537gK3t0Xhf9ohUEeVCcKdl3E2eS8HP9T/pub)
+3. [RSA Optimization](https://docs.google.com/document/d/e/2PACX-1vTJ3OnPTyzb5_ZfMtqE6YbsmjJG6WcWvPfkoINYeQ3J7H2FYd2ywR-l75FCGFLnh3-Ax6UzPlCZcZ_m/pub)

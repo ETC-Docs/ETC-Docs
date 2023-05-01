@@ -1,6 +1,5 @@
-<a href="https://www.eventticketscenter.com" title="ETC website" class="link-social block">
-	<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="32" viewBox="0 0 192 192" enable-background="new 0 0 192 192" xml:space="preserve">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100%" viewBox="0 0 192 192" enable-background="new 0 0 192 192" xml:space="preserve">
 <path fill="#FAFDFD" opacity="1.000000" stroke="none" 
 	d="
 M192.761414,63.735878 
@@ -1863,6 +1862,4 @@ M127.490250,111.575500
 	C123.964584,107.709068 124.487473,106.209251 126.053467,106.516884 
 	C128.847061,107.065643 128.091446,109.365562 127.490250,111.575500 
 z"/>
-
 </svg>
-</a>
